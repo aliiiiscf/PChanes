@@ -21,6 +21,6 @@ Esta aplicación fue desarrollada para el Hackatón iOS Lab, FES Acatlán 2026-2
 
 ## Equipo de trabajo
 
-- Canté Chan Diego Emmanuel
--Laureano Sánchez Yoshua Barush
+- Canté Chan Diego Emmanuel <br>
+-Laureano Sánchez Yoshua Barush <br>
 -Camacho Flores Alitzel Sophia
