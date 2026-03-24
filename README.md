@@ -13,6 +13,7 @@ VÍNCULO es una aplicación desarrollada completamente en Swift con el fin de ay
 - Xcode
 - Claude
 - Deepseek
+- Apple Intelligence - Fundation Models
 
 ## Información Adicional
 
